@@ -1,4 +1,4 @@
-# Netlify-Build-Konfiguration – PT1TT Wendetangente
+# Netlify-Build-Konfiguration – PT1TT Einspeicher-Tangente
 # Deploy erfolgt automatisch bei jedem 'git push' (Continuous Deployment).
 
 [build]
